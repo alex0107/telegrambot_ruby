@@ -39,3 +39,4 @@ Install imagemagick and fortune with
 ```sh
 apt-get install imagemagick fortune
 ```
+ If  there are any problems, be free and write me!
